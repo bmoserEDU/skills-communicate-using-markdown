@@ -5,3 +5,7 @@
 ``` c
 int i = 10;
 ```
+
+- [x] required task
+- [ ] unfinished task :(
+- [ ] tbd???
